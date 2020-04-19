@@ -25,7 +25,7 @@ SECRET_KEY = 'h4xkeuo5(i=-1emj&ygc$sy%+!x^w23_ke4fb1gezmg32tl888'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['ranjana-crm1.herokuapp.com', '127.0.0.1']
+ALLOWED_HOSTS = ['https://orders-crm.herokuapp.com', '127.0.0.1']
 
 
 # Application definition
