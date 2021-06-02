@@ -47,6 +47,6 @@ todo==0.1
 traceback2==1.4.0
 typed-ast==1.4.1
 unittest2==1.1.0
-urllib3==1.25.8
+urllib3==1.26.5
 whitenoise==5.0.1
 wrapt==1.11.2
